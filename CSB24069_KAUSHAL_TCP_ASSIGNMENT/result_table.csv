@@ -1,0 +1,7 @@
+roll_no,name,mode,bandwidth_mbps,delay_ms,message_size_bytes,total_messages,average_response_time_seconds,throughput_bytes_per_second,status
+CSB24069,Kaushal Kumar,persistent,5,50,128,10,0.20141220092773438,635.5126422848917,SUCCESS
+CSB24069,Kaushal Kumar,new_connection,5,50,128,10,0.2010599136352539,636.6261562819872,SUCCESS
+CSB24069,Kaushal Kumar,persistent,5,50,512,10,0.20122685432434081,2544.3920083089397,SUCCESS
+CSB24069,Kaushal Kumar,new_connection,5,50,512,10,0.20099642276763915,2547.3090164987407,SUCCESS
+CSB24069,Kaushal Kumar,persistent,5,50,1024,10,0.20094623565673828,5095.890433843329,SUCCESS
+CSB24069,Kaushal Kumar,new_connection,5,50,1024,10,0.20092549324035644,5096.416504873493,SUCCESS
