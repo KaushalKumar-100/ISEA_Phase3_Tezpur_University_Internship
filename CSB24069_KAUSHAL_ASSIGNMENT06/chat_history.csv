@@ -1,0 +1,22 @@
+timestamp,sender,receiver,message_type,message
+2026-07-11 03:10:37,SERVER,ALL,system,Alice joined the chat
+2026-07-11 03:10:53,SERVER,ALL,system,Bob joined the chat
+2026-07-11 03:11:13,SERVER,ALL,system,Charlie joined the chat
+2026-07-11 03:11:44,SERVER,ALL,system,David joined the chat
+2026-07-11 03:12:55,Alice,ALL,broadcast,Hello Everyone
+2026-07-11 03:13:15,Bob,ALL,broadcast,Hello
+2026-07-11 03:13:22,Charlie,ALL,broadcast,Hello
+2026-07-11 03:13:39,David,ALL,broadcast,How are you all ?
+2026-07-11 03:14:49,Alice,Bob,private,hey! you are fired
+2026-07-11 03:15:07,Bob,Alice,private,but why
+2026-07-11 03:15:23,David,ALL,broadcast,Dinner
+2026-07-11 03:15:31,Charlie,ALL,broadcast,No thanks
+2026-07-11 03:21:43,David,ALL,broadcast,good Night
+2026-07-11 03:21:52,Bob,ALL,broadcast,good Nighe
+2026-07-11 03:21:58,Alice,ALL,broadcast,good Night
+2026-07-11 03:23:07,Alice,David,private,how are you
+2026-07-11 03:23:46,Bob,Bob,private,everything is ok
+2026-07-11 03:24:08,Bob,David,private,hey
+2026-07-11 03:24:20,Charlie,David,private,fine
+2026-07-11 03:25:50,SERVER,ALL,system,Alice left the chat
+2026-07-11 03:25:56,SERVER,ALL,system,Bob left the chat
