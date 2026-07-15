@@ -1,0 +1,32 @@
+[2026-07-15 14:23:48] New user registered: Kaushal from IP 10.0.0.2
+[2026-07-15 14:24:27] Successful login for Kaushal from 10.0.0.2
+[2026-07-15 14:24:27] Session started: Kaushal (10.0.0.2:52926)
+[2026-07-15 14:25:12] Failed login (1/5) for kaushal from 10.0.0.3
+[2026-07-15 14:25:18] New user registered: kaushal from IP 10.0.0.3
+[2026-07-15 14:25:24] Successful login for kaushal from 10.0.0.3
+[2026-07-15 14:25:24] Session started: kaushal (10.0.0.3:58836)
+[2026-07-15 14:25:48] Duplicate login attempt for Kaushal from 10.0.0.4
+[2026-07-15 14:29:04] New user registered: Alice from IP 10.0.0.5
+[2026-07-15 14:29:08] Successful login for Alice from 10.0.0.5
+[2026-07-15 14:29:08] Session started: Alice (10.0.0.5:34654)
+[2026-07-15 14:29:36] Session timeout for Kaushal due to inactivity.
+[2026-07-15 14:29:36] Session ended: Kaushal
+[2026-07-15 14:29:43] Successful login for Kaushal from 10.0.0.4
+[2026-07-15 14:29:43] Session started: Kaushal (10.0.0.4:54834)
+[2026-07-15 14:30:32] Session timeout for kaushal due to inactivity.
+[2026-07-15 14:30:32] Session ended: kaushal
+[2026-07-15 14:32:19] Successful login for kaushal from 10.0.0.3
+[2026-07-15 14:32:19] Session started: kaushal (10.0.0.3:57954)
+[2026-07-15 14:33:32] Failed login (1/5) for Bob from 10.0.0.2
+[2026-07-15 14:33:38] Failed login (2/5) for Bob from 10.0.0.2
+[2026-07-15 14:33:40] New user registered: Bob from IP 10.0.0.2
+[2026-07-15 14:33:44] Successful login for Bob from 10.0.0.2
+[2026-07-15 14:33:44] Session started: Bob (10.0.0.2:55638)
+[2026-07-15 14:34:19] User Bob logged out normally.
+[2026-07-15 14:34:19] Session ended: Bob
+[2026-07-15 14:34:30] User kaushal logged out normally.
+[2026-07-15 14:34:30] Session ended: kaushal
+[2026-07-15 14:34:35] User Alice logged out normally.
+[2026-07-15 14:34:35] Session ended: Alice
+[2026-07-15 14:37:49] Session timeout for Kaushal due to inactivity.
+[2026-07-15 14:37:49] Session ended: Kaushal

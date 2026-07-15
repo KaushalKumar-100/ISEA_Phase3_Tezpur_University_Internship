@@ -1,0 +1,21 @@
+timestamp,sender,receiver,message_type,message
+2026-07-15 14:24:27,SERVER,ALL,system,Kaushal joined the chat
+2026-07-15 14:25:24,SERVER,ALL,system,kaushal joined the chat
+2026-07-15 14:29:08,SERVER,ALL,system,Alice joined the chat
+2026-07-15 14:29:36,SERVER,ALL,system,Kaushal left the chat
+2026-07-15 14:29:43,SERVER,ALL,system,Kaushal joined the chat
+2026-07-15 14:29:58,Kaushal,ALL,broadcast,Hello Everyone
+2026-07-15 14:30:19,Alice,ALL,broadcast,Hello
+2026-07-15 14:30:32,SERVER,ALL,system,kaushal left the chat
+2026-07-15 14:31:38,Alice,ALL,broadcast,are you guy's doing well
+2026-07-15 14:32:19,SERVER,ALL,system,kaushal joined the chat
+2026-07-15 14:32:23,kaushal,ALL,broadcast,hellow
+2026-07-15 14:32:38,kaushal,ALL,broadcast,Big surprise for you
+2026-07-15 14:32:41,Kaushal,ALL,broadcast,what
+2026-07-15 14:33:44,SERVER,ALL,system,Bob joined the chat
+2026-07-15 14:33:48,Bob,ALL,broadcast,Hey
+2026-07-15 14:33:54,Bob,ALL,broadcast,sorry for late
+2026-07-15 14:34:19,SERVER,ALL,system,Bob left the chat
+2026-07-15 14:34:30,SERVER,ALL,system,kaushal left the chat
+2026-07-15 14:34:35,SERVER,ALL,system,Alice left the chat
+2026-07-15 14:37:49,SERVER,ALL,system,Kaushal left the chat
